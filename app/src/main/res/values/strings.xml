@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">deisidrata-te</string>
+    <string name="registar">Registar</string>
+    <string name="finish">finish</string>
+    <string name="Register">Register</string>
+    <string name="what_did_you_drink">What did you drink</string>
+    <string name="how_much_did_u_drink">How much did you drink? (ml)</string>
+    <string name="submit">submit</string>
+    <string name="water">Water</string>
+    <string name="beer">Beer</string>
+    <string name="coffee">Coffee</string>
+    <string name="notes">notes</string>
+    <string-array name = "drinks" >
+        <item>@string/water</item>
+        <item>@string/beer</item>
+        <item>@string/coffee</item>
+    </string-array>
+
+
+
+
+</resources>
